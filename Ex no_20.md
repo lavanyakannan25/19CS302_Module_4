@@ -29,8 +29,7 @@ int main() {
 ```
 
 ## Output:
-
-<img width="462" height="178" alt="image" src="https://github.com/user-attachments/assets/61436cbb-5927-4b9d-a73f-4282e0370e25" />
+<img width="759" height="205" alt="image" src="https://github.com/user-attachments/assets/b493bf2d-0c2f-431c-829c-7b0a9fea0a43" />
 
 
 ## Result:
